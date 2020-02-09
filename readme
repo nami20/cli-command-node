@@ -1,1 +1,11 @@
-
+1. run chmod +x ./dict
+2. added api_key for fourty two words
+3. npm install
+4. run
+    ./dict defn {word} =>  definations of word
+    ./dict syn {word} => synonyms of word
+    ./dict ex {word} => gives examples of word
+    ./dict ant {word} => gives antonymos of word
+    ./dict {word} => give defination, synonym, antonym, and example of a word
+    ./dict => give defination, synonym, antonym, and example of a random word
+    ./dict play => ask user to guess the word
